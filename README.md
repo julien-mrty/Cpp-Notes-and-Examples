@@ -1,4 +1,4 @@
 # Cpp-Notes-and-Examples
 
-Cpp beginner's guide advancements: p 16
-LearnCpp: https://www.learncpp.com/cpp-tutorial/compiling-your-first-program/
+Cpp beginner's guide advancements: check GetCracked roadmap (thank you CJ)
+LearnCpp: https://www.learncpp.com/
